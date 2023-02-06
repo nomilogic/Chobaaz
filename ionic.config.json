@@ -1,0 +1,7 @@
+{
+  "name": "cho-baz",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
